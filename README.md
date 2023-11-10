@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manas</h1>
 <h3 align="center">Founder@metabees.in</h3>
 
-- 🔭 I’m currently working on **Metabees.in**
+- 🔭 I’m currently working at **Metabees.in**
 
 - 💬 Ask me about **three , react-three-fiber and rest-api**
 
